@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>google_automation</name>
+   <tag></tag>
+   <UUID>f33d59ab-9b5c-40a8-8019-a05a0ee7fde0</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>
